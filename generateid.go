@@ -1,9 +1,7 @@
 package generateid
 
 import (
-	"fmt"
 	"math/rand"
-	"os"
 	"strings"
 )
 
